@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/chenli/file/imgrec/models/things/model-1600"
+all_model_checkpoint_paths: "/home/chenli/file/imgrec/models/things/model-1590"
+all_model_checkpoint_paths: "/home/chenli/file/imgrec/models/things/model-1595"
+all_model_checkpoint_paths: "/home/chenli/file/imgrec/models/things/model-1600"
