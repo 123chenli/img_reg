@@ -57,5 +57,5 @@ def url2sample(url, resize=(227, 227)):
 #   Start Server
 #---------------------------
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8883, debug=False)
+    app.run(host='0.0.0.0', port=8884, debug=False)
 
