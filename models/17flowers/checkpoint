@@ -1,4 +1,0 @@
-model_checkpoint_path: "/home/chenli/file/imgrec/models/17flowers/model-300"
-all_model_checkpoint_paths: "/home/chenli/file/imgrec/models/17flowers/model-270"
-all_model_checkpoint_paths: "/home/chenli/file/imgrec/models/17flowers/model-285"
-all_model_checkpoint_paths: "/home/chenli/file/imgrec/models/17flowers/model-300"
